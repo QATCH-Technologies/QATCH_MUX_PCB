@@ -38,7 +38,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.9652,
+          "height": 0.8128,
           "width": 0.762
         },
         "silk_line_width": 0.15,
@@ -487,11 +487,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Gerber",
+      "pos_files": "Pick and Place",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "SVG",
       "vrml": ""
     },
     "page_layout_descr_file": ""

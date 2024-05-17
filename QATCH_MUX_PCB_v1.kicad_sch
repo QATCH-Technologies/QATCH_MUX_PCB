@@ -5098,6 +5098,12 @@
 		(uuid "39118f03-df4a-45f1-974b-2dee3f197d34")
 	)
 	(junction
+		(at 31.75 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "392cfcc5-cb0b-4562-b8ba-a79df53597c6")
+	)
+	(junction
 		(at 237.49 236.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5114,6 +5120,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d41b9ed-a8bd-4048-a364-545d520bd8fa")
+	)
+	(junction
+		(at 46.99 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dec6b98-a620-4956-a277-ad942b72f677")
 	)
 	(junction
 		(at 261.62 219.71)
@@ -5384,6 +5396,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c0828ba-abb5-48f4-8ec5-fd8e84bf118f")
+	)
+	(junction
+		(at 45.72 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7cb94110-5d47-4cdf-974a-dc3c01114c61")
 	)
 	(junction
 		(at 48.26 180.34)
@@ -5986,6 +6004,12 @@
 		(uuid "f62bb697-65df-4697-a0c7-238220d9da63")
 	)
 	(junction
+		(at 44.45 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f85cc121-f8bc-4b9f-93a6-d1d4c74abc69")
+	)
+	(junction
 		(at 157.48 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6482,6 +6506,16 @@
 			(type default)
 		)
 		(uuid "0b390ec8-b32c-4f34-a3c7-865906e5160a")
+	)
+	(wire
+		(pts
+			(xy 44.45 167.64) (xy 44.45 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b6a4f19-5b11-4ee6-bfda-aac78927c7a8")
 	)
 	(wire
 		(pts
@@ -7895,6 +7929,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 162.56) (xy 19.05 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34dda8bd-c49e-48ad-911b-940bdc5e9947")
+	)
+	(wire
+		(pts
 			(xy 185.42 207.01) (xy 184.15 207.01)
 		)
 		(stroke
@@ -8962,6 +9006,16 @@
 			(type default)
 		)
 		(uuid "588e3132-e1e2-4efd-b929-15d162ebca05")
+	)
+	(wire
+		(pts
+			(xy 31.75 165.1) (xy 31.75 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "590528d3-b53a-462d-9192-1355906df0d5")
 	)
 	(wire
 		(pts
@@ -10365,6 +10419,16 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 162.56) (xy 19.05 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80f04f43-1b8f-41a6-a685-8238bba8830b")
+	)
+	(wire
+		(pts
 			(xy 151.13 210.82) (xy 151.13 224.79)
 		)
 		(stroke
@@ -11535,6 +11599,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 203.2) (xy 31.75 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5f9215c-8581-4b6e-af26-01d66a58b428")
+	)
+	(wire
+		(pts
 			(xy 48.26 170.18) (xy 50.8 170.18)
 		)
 		(stroke
@@ -11562,6 +11636,16 @@
 			(type default)
 		)
 		(uuid "a6816ee5-564b-4a85-8473-b0563c8ee0ac")
+	)
+	(wire
+		(pts
+			(xy 44.45 203.2) (xy 44.45 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a70ba44d-3bf2-449b-918a-913c64eab6d2")
 	)
 	(wire
 		(pts
@@ -11952,6 +12036,16 @@
 			(type default)
 		)
 		(uuid "b37ad42e-d75b-440a-8036-03f1120abd60")
+	)
+	(wire
+		(pts
+			(xy 19.05 203.2) (xy 19.05 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3a251fc-8cdb-4b68-9e7b-bcb1aa8407f5")
 	)
 	(wire
 		(pts
@@ -12362,6 +12456,16 @@
 			(type default)
 		)
 		(uuid "bf8731b9-4419-4530-bd14-5c9f915d2e94")
+	)
+	(wire
+		(pts
+			(xy 19.05 209.55) (xy 31.75 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09da964-10ad-4c8a-999f-fd28b7d7e46a")
 	)
 	(wire
 		(pts
@@ -12985,6 +13089,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 165.1) (xy 31.75 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e47a18-126e-4472-ab3b-c8555ef4ac5b")
+	)
+	(wire
+		(pts
 			(xy 217.17 130.81) (xy 187.96 130.81)
 		)
 		(stroke
@@ -13272,6 +13386,16 @@
 			(type default)
 		)
 		(uuid "dd915f14-58fe-455a-afe9-9e0fc6e6ac3b")
+	)
+	(wire
+		(pts
+			(xy 44.45 209.55) (xy 31.75 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de629238-cc0b-48ee-bd52-9d063fee67ef")
 	)
 	(wire
 		(pts
@@ -33829,6 +33953,115 @@
 		)
 	)
 	(symbol
+		(lib_id "Symbols:RC0603FR-07470RL")
+		(at 19.05 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0cddcd9e-6b0f-4ba3-b8c0-5d66553ee39e")
+		(property "Reference" "R3"
+			(at 22.86 196.215 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-0710KL"
+			(at 15.24 196.85 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "RC0603N_YAG"
+			(at 19.05 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0603FR-0710KL"
+			(at 19.05 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 19.05 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "RESISTOR"
+			(at 69.85 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 69.85 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 69.85 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" ""
+			(at 69.85 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6576bfd7-f7e4-4ce1-a046-a3bff3e0b38f")
+		)
+		(pin "2"
+			(uuid "0a201cb4-f93f-4f46-875f-948923fd6d77")
+		)
+		(instances
+			(project "QATCH_MUX_PCB_v1"
+				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Symbols:436500500")
 		(at 116.84 105.41 180)
 		(unit 1)
@@ -33902,6 +34135,223 @@
 			(project "QATCH_MUX_PCB_v1"
 				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
 					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Symbols:RC0603FR-07470RL")
+		(at 44.45 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ed5181e-14b8-49ff-b07b-91f412525eda")
+		(property "Reference" "R2"
+			(at 48.26 196.215 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-0710KL"
+			(at 40.64 196.85 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "RC0603N_YAG"
+			(at 44.45 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0603FR-0710KL"
+			(at 44.45 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 44.45 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "RESISTOR"
+			(at 95.25 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 95.25 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 95.25 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" ""
+			(at 95.25 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "534daeb0-c34f-46b5-9b9b-e3a5cacaca9d")
+		)
+		(pin "2"
+			(uuid "9d16bfa8-1e1e-48e2-a1f2-a6e55926f560")
+		)
+		(instances
+			(project "QATCH_MUX_PCB_v1"
+				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Scheme-it-export-QATCH-2024-04-09-15-52:1204_GND_EARTH")
+		(at 31.75 212.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7677e7f-b426-448a-b972-805c9a5b9477")
+		(property "Reference" "#GND01"
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND_EARTH"
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 212.09 0)
+			(effects
+				(font
+					(size 0.6096 0.6096)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 212.09 0)
+			(effects
+				(font
+					(size 0.6096 0.6096)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "GND"
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" ""
+			(at 7.62 142.24 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "~"
+			(uuid "29bc67ff-4b11-4118-a98b-23a16d4ecd8a")
+		)
+		(instances
+			(project "QATCH_MUX_PCB_v1"
+				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
+					(reference "#GND01")
 					(unit 1)
 				)
 			)
@@ -34054,6 +34504,115 @@
 			(project "QATCH_MUX_PCB_v1"
 				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Symbols:RC0603FR-07470RL")
+		(at 31.75 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6ac10b4-4826-4249-b79a-a726a911e1af")
+		(property "Reference" "R1"
+			(at 35.56 196.215 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-0710KL"
+			(at 27.94 196.85 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "RC0603N_YAG"
+			(at 31.75 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0603FR-0710KL"
+			(at 31.75 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "RESISTOR"
+			(at 82.55 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 82.55 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 82.55 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" ""
+			(at 82.55 299.72 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fb28864-3ad2-4791-924e-910d88700653")
+		)
+		(pin "2"
+			(uuid "1eab6558-e773-4320-b8cf-1a6fb20e1755")
+		)
+		(instances
+			(project "QATCH_MUX_PCB_v1"
+				(path "/28ad01b6-a1a8-45b5-92d8-b46199558ffa"
+					(reference "R1")
 					(unit 1)
 				)
 			)
